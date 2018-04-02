@@ -9,9 +9,6 @@ var express     = require("express"),
 app.get("/", function(req, res){
     res.render("landing");
 });
-app.listen(8080, "localhost",  function(){
-    console.log ("The Yelp Camp Server is runing");
-});
 
 
 app.listen(process.env.PORT, process.env.IP, function(){
