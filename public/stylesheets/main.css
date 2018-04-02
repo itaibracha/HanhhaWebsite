@@ -68,7 +68,7 @@ img::-moz-selection{color:#fff;background:0 0}
 #mainNav{border-bottom:1px solid rgb(33,37,41);
 background-color:#fff;
 font-family:'Open Sans','Helvetica Neue',Arial,sans-serif ;-webkit-transition:all 0.2s;-moz-transition:all .2s;transition:all .2s}
-#mainNav .navbar-brand{font-weight:700;text-transform:uppercase;color:#f05f40;font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}#mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover{color:#f05f40}#mainNav .navbar-nav>li.nav-item>a.nav-link,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus{font-size:.9rem;font-weight:700;text-transform:uppercase;color:#212529}
+#mainNav .navbar-brand{font-weight:700;text-transform:uppercase;color:#100f0f;font-family:'Open Sans','Helvetica Neue',Arial,sans-serif}#mainNav .navbar-brand:focus,#mainNav .navbar-brand:hover{color:#f05f40}#mainNav .navbar-nav>li.nav-item>a.nav-link,#mainNav .navbar-nav>li.nav-item>a.nav-link:focus{font-size:.9rem;font-weight:700;text-transform:uppercase;color:#212529}
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover,#mainNav .navbar-nav>li.nav-item>a.nav-link:hover{color:#f05f40}
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active,
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active{color:#f05f40!important;background-color:rgba(20, 20, 20, 0.9)}
@@ -89,7 +89,7 @@ font-family:'Open Sans','Helvetica Neue',Arial,sans-serif ;-webkit-transition:al
 #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus{color:#212529}
 #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:focus:hover,
 #mainNav.navbar-shrink .navbar-nav>li.nav-item>a.nav-link:hover{color:#f05f40}}
-header.masthead{padding-top:10rem;padding-bottom:calc(10rem - 56px);background-image:url(img/header.jpg);-webkit-background-size:100%;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
+header.masthead{padding-top:10rem;padding-bottom:calc(10rem - 56px);background-image:url(img/header.jpg);background: center;-webkit-background-size:100%;-moz-background-size:cover;-o-background-size:cover;background-size:cover}
 header.masthead hr{margin-top:30px;margin-bottom:30px}
 header.masthead {font-size:2rem}
 header.masthead p{font-weight:300}
