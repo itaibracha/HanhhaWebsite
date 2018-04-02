@@ -92,11 +92,7 @@ header.masthead{padding-top:10rem;padding-bottom:calc(10rem - 56px);background-i
 header.masthead hr{margin-top:30px;margin-bottom:30px}
 header.masthead {font-size:2rem}
 header.masthead p{font-weight:300}
-@media (min-width:768px)
-{header.masthead p{    font-weight: bold;
-    color: rgba(20, 20, 20, 0.9);
-    font-size: 1.57rem;
-    text-shadow: 1px 1px #000000;}}
+
 @media (min-width:992px){
     header.masthead{height:100vh;min-height:650px;padding-top:0;padding-bottom:0}
     header.masthead {font-size:3rem}}@media (min-width:1200px){
