@@ -12,6 +12,6 @@ app.get("/", function(req, res){
 
 
 
-app.listen(8080,"localhost" , function(){
+app.listen(process.env.PORT, process.env.IP, function(){
     console.log ("The Yelp Camp Server is runing");
 });
